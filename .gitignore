@@ -4,3 +4,9 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+.Data
+.cleaned_csv_file.csv
+.im.db
+.movies_with_ROI.csv
+
+
